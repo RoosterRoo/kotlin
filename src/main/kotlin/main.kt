@@ -4,4 +4,7 @@ fun main() {
     readonly()
     types()
     values()
+    interpolation()
+    strings()
+    multiargs(name = "Sayan", "Burger", "Pizza", "Shawarma")
 }
